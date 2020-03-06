@@ -3,7 +3,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/silenceper/wechat)](https://goreportcard.com/report/github.com/silenceper/wechat)
 [![GoDoc](http://godoc.org/github.com/silenceper/wechat?status.svg)](http://godoc.org/github.com/silenceper/wechat)
 
-
 使用Golang开发的微信SDK，简单、易用。
 
 ## 快速开始
@@ -97,6 +96,7 @@ Cache主要用来保存全局access_token以及js-sdk中的ticket：
 	- 获取js-sdk配置
 - [素材管理](#素材管理)
 - [小程序开发](#小程序开发)
+- [小程序-云开发](./tcb)
 
 ## 消息管理
 
